@@ -1,4 +1,5 @@
 package 'tree'
+package 'powershell'
 package 'ntp'
 package 'git' do
   action :install
